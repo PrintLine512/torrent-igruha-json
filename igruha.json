@@ -1,1 +1,35 @@
-{'name': 'Igruha', 'downloads': [{'title': 'Скачать торрентСкачали: 5179', 'fileSize': None, 'uris': ['https://itorrents-igruha.org/engine/download.php?id=77689'], 'uploadDate': '16.01.2025'}, {'title': 'Скачать торрент', 'fileSize': None, 'uris': None, 'uploadDate': '16.01.2025'}, {'title': 'Скачать торрентСкачали: 3336', 'fileSize': None, 'uris': ['https://itorrents-igruha.org/engine/download.php?id=77688'], 'uploadDate': '30.01.2025'}, {'title': 'Скачать торрентСкачали: 8584', 'fileSize': None, 'uris': ['https://itorrents-igruha.org/engine/download.php?id=63038'], 'uploadDate': '16.01.2025'}]}
+{
+  "name": "Igruha",
+  "downloads": [
+    {
+      "title": "Скачать торрентСкачали: 5179",
+      "fileSize": null,
+      "uris": [
+        "https://itorrents-igruha.org/engine/download.php?id=77689"
+      ],
+      "uploadDate": "16.01.2025"
+    },
+    {
+      "title": "Скачать торрент",
+      "fileSize": null,
+      "uris": null,
+      "uploadDate": "16.01.2025"
+    },
+    {
+      "title": "Скачать торрентСкачали: 3336",
+      "fileSize": null,
+      "uris": [
+        "https://itorrents-igruha.org/engine/download.php?id=77688"
+      ],
+      "uploadDate": "30.01.2025"
+    },
+    {
+      "title": "Скачать торрентСкачали: 8584",
+      "fileSize": null,
+      "uris": [
+        "https://itorrents-igruha.org/engine/download.php?id=63038"
+      ],
+      "uploadDate": "16.01.2025"
+    }
+  ]
+}
